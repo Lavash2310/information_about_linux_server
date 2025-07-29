@@ -1,0 +1,1 @@
+# information_about_linux_server
